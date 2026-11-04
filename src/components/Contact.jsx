@@ -23,7 +23,7 @@ export default function Contact() {
         event.preventDefault();
 
         const lines = [
-            'Hello Melinia Honey, I would like to place an order:',
+            'Hello Bien Gıda, I would like to place an order:',
             '',
             `Name: ${form.name}`,
             `Phone: ${form.phone}`,
@@ -44,7 +44,7 @@ export default function Contact() {
                     <h2>Place your order on WhatsApp.</h2>
                     <p>
                         Fill in your details below and we will open WhatsApp with your order
-                        ready to send. You can also call or visit us in Fatih, Istanbul.
+                        ready to send. You can also call or visit us in Beyoğlu, Istanbul.
                     </p>
                 </div>
 

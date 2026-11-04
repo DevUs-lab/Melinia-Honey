@@ -8,20 +8,21 @@ export default function About() {
                 <div className="about-image">
                     <img
                         src={siteConfig.aboutImage}
-                        alt="Melinia Honey products"
+                        alt="Bien Gıda products"
                         loading="lazy"
                     />
                 </div>
 
                 <div className="about-copy">
-                    <p className="kicker">About Melinia Honey</p>
-                    <h2>A wholesale honey store in the heart of Istanbul.</h2>
+                    <p className="kicker">About Bien Gıda</p>
+                    <h2>An organic food market and honey store in the heart of Istanbul.</h2>
 
                     <p>
-                        Melinia Honey is a wholesale food store in Fatih, Istanbul,
-                        offering a carefully selected range of pure, natural honey. We
-                        supply businesses and retail customers with high-quality honey
-                        sourced and packed with care.
+                        Bien Gıda — Organik Gıda Pazarı is an organic food market in
+                        Beyoğlu, Istanbul, offering a carefully selected range of pure,
+                        natural honey and organic foods. We serve businesses and retail
+                        customers with high-quality, natural products sourced and packed
+                        with care.
                     </p>
 
                     <div className="about-address">

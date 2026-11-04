@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://meliniahoney.com/sitemap.xml
+Sitemap: https://biengida.com/sitemap.xml

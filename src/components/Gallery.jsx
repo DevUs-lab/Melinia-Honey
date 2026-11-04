@@ -26,7 +26,7 @@ export default function Gallery() {
                 <div className="section-heading">
                     <p className="kicker">Gallery</p>
                     <h2>A look at our honey.</h2>
-                    <p>A glimpse of the Melinia Honey collection and our products.</p>
+                    <p>A glimpse of the Bien Gıda collection and our products.</p>
                 </div>
 
                 <div className="gallery-grid">

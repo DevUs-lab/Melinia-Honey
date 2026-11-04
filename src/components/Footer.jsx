@@ -6,11 +6,11 @@ export default function Footer() {
             <div className="container footer-grid">
                 <div>
                     <a className="footer-wordmark" href="#home">
-                        Melinia Honey
+                        Bien Gıda
                     </a>
                     <p>
-                        Wholesale food store offering pure, natural honey in Fatih,
-                        Istanbul.
+                        Organik Gıda Pazarı — an organic food market and honey store in
+                        Beyoğlu, Istanbul.
                     </p>
                 </div>
 
@@ -29,7 +29,6 @@ export default function Footer() {
                 <div>
                     <h4>Location</h4>
                     <p>{siteConfig.address}</p>
-                    <p>{siteConfig.plusCode}</p>
                     <a
                         className="footer-map-link"
                         href={siteConfig.mapsUrl}
@@ -53,7 +52,7 @@ export default function Footer() {
             </div>
 
             <div className="container footer-bottom">
-                <p>© {new Date().getFullYear()} Melinia Honey. All rights reserved.</p>
+                <p>© {new Date().getFullYear()} Bien Gıda. All rights reserved.</p>
             </div>
         </footer>
     );

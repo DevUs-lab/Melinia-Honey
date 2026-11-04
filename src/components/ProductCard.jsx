@@ -26,7 +26,7 @@ export default function ProductCard({ product, onDetails }) {
 
                     <a
                         className="btn btn-primary"
-                        href={waLink(`Hello Melinia Honey, I would like to order: ${product.name}`)}
+                        href={waLink(`Hello Bien Gıda, I would like to order: ${product.name}`)}
                         target="_blank"
                         rel="noreferrer"
                     >

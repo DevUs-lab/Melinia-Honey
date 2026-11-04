@@ -12,10 +12,10 @@ export default function Header() {
                     className="wordmark"
                     href="#home"
                     onClick={() => setOpen(false)}
-                    aria-label="Melinia Honey home"
+                    aria-label="Bien Gıda home"
                 >
-                    <span>Melinia Honey</span>
-                    <small>Wholesale Food Store</small>
+                    <span>Bien Gıda</span>
+                    <small>Organik Gıda Pazarı</small>
                 </a>
 
                 <nav className={`nav ${open ? 'open' : ''}`} aria-label="Main navigation">
@@ -31,7 +31,7 @@ export default function Header() {
 
                     <a
                         className="btn btn-primary nav-order"
-                        href={waLink('Hello Melinia Honey, I would like to place an order.')}
+                        href={waLink('Hello Bien Gıda, I would like to place an order.')}
                         target="_blank"
                         rel="noreferrer"
                         onClick={() => setOpen(false)}
@@ -43,7 +43,7 @@ export default function Header() {
 
                 <a
                     className="btn btn-primary header-cta"
-                    href={waLink('Hello Melinia Honey, I would like to place an order.')}
+                    href={waLink('Hello Bien Gıda, I would like to place an order.')}
                     target="_blank"
                     rel="noreferrer"
                 >

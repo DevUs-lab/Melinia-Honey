@@ -7,10 +7,10 @@ export default function Location() {
             <div className="container">
                 <div className="section-heading">
                     <p className="kicker">Location</p>
-                    <h2>Find Melinia Honey in Fatih, Istanbul.</h2>
+                    <h2>Find Bien Gıda in Beyoğlu, Istanbul.</h2>
                     <p>
                         Visit our store or get in touch — we are happy to help with your
-                        wholesale and retail honey orders.
+                        honey and organic food orders.
                     </p>
                 </div>
 
@@ -39,8 +39,8 @@ export default function Location() {
                         <div className="info-row">
                             <Info size={22} />
                             <div>
-                                <strong>Google Maps Plus Code</strong>
-                                <p>{siteConfig.plusCode}</p>
+                                <strong>Opening Hours</strong>
+                                <p>{siteConfig.contact.hours}</p>
                             </div>
                         </div>
 
@@ -67,7 +67,7 @@ export default function Location() {
                             </a>
                             <a
                                 className="btn btn-secondary"
-                                href={waLink('Hello Melinia Honey, I would like to place an order.')}
+                                href={waLink('Hello Bien Gıda, I would like to place an order.')}
                                 target="_blank"
                                 rel="noreferrer"
                             >
@@ -78,7 +78,7 @@ export default function Location() {
 
                     <div className="map-card">
                         <iframe
-                            title="Melinia Honey location map"
+                            title="Bien Gıda location map"
                             src={siteConfig.mapsEmbedUrl}
                             loading="lazy"
                             referrerPolicy="no-referrer-when-downgrade"

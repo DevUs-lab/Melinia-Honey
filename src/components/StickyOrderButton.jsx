@@ -5,7 +5,7 @@ export default function StickyOrderButton() {
     return (
         <a
             className="sticky-order"
-            href={waLink('Hello Melinia Honey, I would like to place an order.')}
+            href={waLink('Hello Bien Gıda, I would like to place an order.')}
             target="_blank"
             rel="noreferrer"
         >

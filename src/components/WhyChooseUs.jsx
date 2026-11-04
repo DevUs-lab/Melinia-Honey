@@ -29,7 +29,7 @@ export default function WhyChooseUs() {
             <div className="container">
                 <div className="section-heading">
                     <p className="kicker">Why Choose Us</p>
-                    <h2>What makes Melinia Honey different.</h2>
+                    <h2>What makes Bien Gıda different.</h2>
                     <p>
                         Quality honey, honest service, and easy ordering — here is what our
                         customers can count on.

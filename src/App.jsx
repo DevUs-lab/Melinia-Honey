@@ -28,7 +28,7 @@ export default function App() {
                         <p className="kicker">Privacy</p>
                         <h2>Privacy Policy</h2>
                         <p>
-                            Melinia Honey respects your privacy. We only use the contact
+                            Bien Gıda respects your privacy. We only use the contact
                             details you share through this website to respond to your orders
                             and inquiries via WhatsApp, phone, or email. We do not sell or
                             share your personal information with third parties.
