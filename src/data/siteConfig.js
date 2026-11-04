@@ -15,9 +15,9 @@ export const siteConfig = {
     heroImage: '/hero.webp',
     aboutImage: '/gallery1.webp',
     contact: {
-        phone: '+90 552 332 22 93',
-        phoneHref: '+905523322293',
-        whatsapp: '905523322293',
+        phone: '+90 537 815 25 67',
+        phoneHref: '+905378152567',
+        whatsapp: '905378152567',
         email: 'info@biengida.com',
         hours: 'Open daily · see Google Maps for hours',
     },
